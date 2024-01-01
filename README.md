@@ -32,4 +32,4 @@
 # 🥇 Certificates:
 ![](https://www.hackerrank.com/certificates/62c4fd1fcd7e) <br/>
 ![](https://www.hackerrank.com/certificates/40d248f69399) <br/>
-![](https://www.udemy.com/certificate/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be/](https://udemy-certificate.s3.amazonaws.com/image/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be.jpg)https://udemy-certificate.s3.amazonaws.com/image/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be.jpg) <br/>
+![](https://udemy-certificate.s3.amazonaws.com/image/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be.jpg) <br/>
