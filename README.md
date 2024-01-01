@@ -27,9 +27,4 @@
 # 📊 Stats:
 ![LeetCode Stats](https://leetcode.card.workers.dev/starflight_roy?theme=dark&font=baloo&extension=null) <br/>
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=starflight_roy) <br/>
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=roysub&theme=dark&hide_border=false)<br/>
-
-# 🥇 Certificates:
-![](https://www.hackerrank.com/certificates/62c4fd1fcd7e) <br/>
-![](https://www.hackerrank.com/certificates/iframe/62c4fd1fcd7e) <br/>
-![](https://udemy-certificate.s3.amazonaws.com/image/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be.jpg) <br/>
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=roysub&theme=dark&hide_border=false)
