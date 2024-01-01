@@ -1,5 +1,4 @@
 ![MasterHead](https://senseaboutscience.org/wp-content/uploads/2023/01/Banner-Wide-02-01.png)
-<h3 align="left">Hi 👋, I'm Subham Roy</h1>
 
 # 💫 About Me:
 💡 4 years of IT experience as a Data Analyst with experience in Data Strategy, Data Mining, Statistical Analysis, Machine Learning, Big Data Analytics, and Data Visualization. <br><br> Comfortable with Data engineering and EDA concepts such as Data Flow, Data Normalization, Data Modelling, Data Wrangling, Data Warehousing, and Data Cleaning. <br><br> Well-versed with Agile, Scrum, Waterfall Model, and Test-driven Development (TDD) methodologies. <br><br>
@@ -33,4 +32,4 @@
 # 🥇 Certificates:
 ![](https://www.hackerrank.com/certificates/62c4fd1fcd7e) 
 ![](https://www.hackerrank.com/certificates/40d248f69399)
-![](https://www.udemy.com/certificate/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be/)
+![]([https://www.udemy.com/certificate/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be/](https://udemy-certificate.s3.amazonaws.com/image/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be.jpg)https://udemy-certificate.s3.amazonaws.com/image/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be.jpg)
