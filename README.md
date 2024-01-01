@@ -1,4 +1,4 @@
-[![MasterHead](https://senseaboutscience.org/wp-content/uploads/2023/01/Banner-Wide-02-01.png)]
+![MasterHead](https://senseaboutscience.org/wp-content/uploads/2023/01/Banner-Wide-02-01.png)
 <h1 align="center">Hi 👋, I'm Subham Roy</h1>
 
 # 💫 About Me:
