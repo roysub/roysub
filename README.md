@@ -28,12 +28,13 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%20red?style=for-the-badge&logo=apache)
 ![SQL](https://img.shields.io/badge/SQL-%20?style=for-the-badge&logo=sql)
-![R](https://img.shields.io/badge/r-grey?style=for-the-badge&logo=R) <br>
+![R](https://img.shields.io/badge/r-grey?style=for-the-badge&logo=R) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>
 **Libraries and Frameworks:**<br>
 ![Tensorflow](https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/keras-black?style=for-the-badge&logo=keras)
 ![Pandas](https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas)
-![Sckitlearn](https://img.shields.io/badge/sckit-learn-orange?style=for-the-badge&logo=sckit-learn)
+![Sckitlearn](https://img.shields.io/badge/sckit-learn-%23777BB4?style=for-the-badge&logo=sckit-learn)
 ![PySpark](https://img.shields.io/badge/PySpark-white?style=for-the-badge&logo=pyspark)
 ![Numpy](https://img.shields.io/badge/numpy-red?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-blue?style=for-the-badge&logo=matplotlib)
