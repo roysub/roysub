@@ -27,5 +27,10 @@
 
 # 📊 Stats:
 ![LeetCode Stats](https://leetcode.card.workers.dev/starflight_roy?theme=dark&font=baloo&extension=null) <br/>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=starflight_roy) <br/>
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=roysub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roysub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 🥇 Certificates:
+![SQL Advance Certificate](https://www.hackerrank.com/certificates/62c4fd1fcd7e) <br/>
+![Python Problem Solving - Intermediate](https://www.hackerrank.com/certificates/40d248f69399) <br/>
+![AWS Cloud Practitioner](https://www.udemy.com/certificate/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be/)
