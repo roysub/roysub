@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://senseaboutscience.org/wp-content/uploads/2023/01/Banner-Wide-02-01.png)]
 # 💫 About Me:
 💡 4 years of IT experience as a Data Analyst with experience in Data Strategy, Data Mining, Statistical Analysis, Machine Learning, Big Data Analytics, and Data Visualization. <br><br> Comfortable with Data engineering and EDA concepts such as Data Flow, Data Normalization, Data Modelling, Data Wrangling, Data Warehousing, and Data Cleaning. <br><br> Well-versed with Agile, Scrum, Waterfall Model, and Test-driven Development (TDD) methodologies. <br><br>
 
