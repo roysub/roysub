@@ -1,17 +1,17 @@
 # 💫 About Me:
 💡 4 years of IT experience as a Data Analyst with experience in Data Strategy, Data Mining, Statistical Analysis, Machine Learning, Big Data Analytics, and Data Visualization. <br><br> Comfortable with Data engineering and EDA concepts such as Data Flow, Data Normalization, Data Modelling, Data Wrangling, Data Warehousing, and Data Cleaning. <br><br> Well-versed with Agile, Scrum, Waterfall Model, and Test-driven Development (TDD) methodologies. <br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roysub" alt="roysub" /></a> </p>
+<br><br>✅ Expertise in machine learning and artificial intelligence. <br>✅ Proficient in Python, R, and SQL. <br>✅ Extensive knowledge of various machine learning and deep learning libraries. <br>✅ Hands-on experience with database management. <br><br>I am actively seeking full-time employment and am open to relocation. Additionally, I am enthusiastic about remote work opportunities that align with my skills and interests. Let's connect and explore how we can make a significant impact together!
 
-- 🔭 I’m currently working on [Data Science Job Simulation @BCG](https://www.theforage.com/simulations/bcg/data-science-ccdz)
+✏️ 🔭 I’m currently working on [Data Science Job Simulation @BCG](https://www.theforage.com/simulations/bcg/data-science-ccdz)
 
-- 🌱 I’m currently learning **Databricks**
+✏️ 🌱 I’m currently learning **Databricks**
 
-- 💬 Ask me about **Data Analysis, Data Engineering, Quality Assurance Engineering**
+✏️ 💬 Ask me about **Data Analysis, Data Engineering, Quality Assurance Engineering**
 
-- 📫 How to reach me **roysubham20@gmail.com**
+✏️ 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/subhamroy/)
 
-- ⚡ Fun fact **Food, Movies and Travel**
+✏️ ⚡ Fun fact **Food, Movies and Travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
