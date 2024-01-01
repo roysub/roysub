@@ -1,4 +1,4 @@
-![MasterHead](https://senseaboutscience.org/wp-content/uploads/2023/01/Banner-Wide-02-01.png)
+![image](https://github.com/roysub/roysub/assets/46082071/2a226d06-7e08-4a05-8ab4-7eb406993495)![MasterHead](https://senseaboutscience.org/wp-content/uploads/2023/01/Banner-Wide-02-01.png)
 
 # 💫 About Me:
 💡 4 years of IT experience as a Data Analyst with experience in Data Strategy, Data Mining, Statistical Analysis, Machine Learning, Big Data Analytics, and Data Visualization. <br><br> Comfortable with Data engineering and EDA concepts such as Data Flow, Data Normalization, Data Modelling, Data Wrangling, Data Warehousing, and Data Cleaning. <br><br> Well-versed with Agile, Scrum, Waterfall Model, and Test-driven Development (TDD) methodologies. <br><br>
@@ -7,7 +7,7 @@
 
 ✏️ 🔭 I’m currently working on [Data Science Job Simulation @BCG](https://www.theforage.com/simulations/bcg/data-science-ccdz)
 
-✏️ 🌱 I’m currently learning **Databricks**
+✏️ 🌱 I’m currently learning **Databricks** and preparing for **AWS Solutions Architect-Associate Level** exam
 
 ✏️ 💬 Ask me about **Data Analysis, Data Engineering, Quality Assurance Engineering**
 
@@ -31,5 +31,5 @@
 
 # 🥇 Certificates:
 ![](https://www.hackerrank.com/certificates/62c4fd1fcd7e) <br/>
-![](https://www.hackerrank.com/certificates/40d248f69399) <br/>
+![](https://www.hackerrank.com/certificates/iframe/62c4fd1fcd7e) <br/>
 ![](https://udemy-certificate.s3.amazonaws.com/image/UC-49f7aa92-660b-4b0f-9b58-b36fdf0188be.jpg) <br/>
