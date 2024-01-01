@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Subham Roy</h1>
-<h3 align="center">Having overall 4 years of IT experience as Data Analyst with experience in Data Strategy, Data Mining, Statistical Analysis, Machine Learning, Big Data Analytics and Data Visualization. Comfortable with Data engineering and EDA concepts as well such as Data Flow, Data Normalization, Data Modelling, Data Wrangling, Data Warehousing, and Data Cleaning. Well versed with Agile, Scrum, Waterfall Model and Test-driven Development (TDD) methodologies.</h3>
+# 💫 About Me:
+💡 4 years of IT experience as a Data Analyst with experience in Data Strategy, Data Mining, Statistical Analysis, Machine Learning, Big Data Analytics, and Data Visualization. <br><br> Comfortable with Data engineering and EDA concepts such as Data Flow, Data Normalization, Data Modelling, Data Wrangling, Data Warehousing, and Data Cleaning. <br><br> Well-versed with Agile, Scrum, Waterfall Model, and Test-driven Development (TDD) methodologies. <br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roysub" alt="roysub" /></a> </p>
 
