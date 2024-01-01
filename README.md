@@ -26,9 +26,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-red)
-![SQL](https://img.shields.io/badge/SQL-blue)
-![R](https://img.shields.io/badge/R-brown) <br>
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%20red?style=for-the-badge&logo=apache)
+![SQL](https://img.shields.io/badge/SQL-%20?style=for-the-badge&logo=sql)
+![R](https://img.shields.io/badge/r-grey?style=for-the-badge&logo=R) <br>
 **Libraries and Framesworks:**<br>
 
 **Softwares and Tools:**<br>
