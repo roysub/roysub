@@ -42,6 +42,20 @@
 ![Selenium](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium)
 ![TestNG](https://img.shields.io/badge/testng-grey?style=for-the-badge&logo=testng) <br>
 **Softwares and Tools:**<br>
+![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=aws)
+![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=google)
+![PowerBI](https://img.shields.io/badge/PowerBI-grey?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-purple?style=for-the-badge&logo=tableau)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/postgresql-yellow?style=for-the-badge&logo=postgresql)
+![Snowflake](https://img.shields.io/badge/snowflake-white?style=for-the-badge&logo=snowflake)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-orange?style=for-the-badge&logo=MS%20SQL%20Server)
+![Kafka](https://img.shields.io/badge/kafka-light--blue?style=for-the-badge&logo=kafka)
+![Airflow](https://img.shields.io/badge/airflow-yellow?style=for-the-badge&logo=airflow)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) <br/>
 
 # 📊 Stats:
 ![LeetCode Stats](https://leetcode.card.workers.dev/starflight_roy?theme=dark&font=baloo&extension=null) <br/>
